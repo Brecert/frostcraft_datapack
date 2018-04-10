@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+  	"fc:core/clock/tick",
+  	"fc:core/clock/clock"
+  ]
+}

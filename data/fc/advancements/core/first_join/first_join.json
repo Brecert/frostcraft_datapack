@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "run": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "fc:core/first_join/first_join"
+    }
+}

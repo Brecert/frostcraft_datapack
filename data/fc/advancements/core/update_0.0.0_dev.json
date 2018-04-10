@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "criteria": {
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "fc:core/update/version"
+    }
+}
